@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Jupyter Notebook",
+      "name": "jupyter"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "id": "a0577b7a-61a6-436a-9fc7-5d1f81a6e56a",
+      "metadata": {
+        "language": "python"
+      },
+      "source": "",
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
